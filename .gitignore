@@ -1,0 +1,6 @@
+# Data Privacy: Never upload raw Kamuli health data
+data/raw/
+*.csv
+*.xlsx
+.Rhistory
+.Rproj.user/
