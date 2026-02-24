@@ -1,4 +1,4 @@
-# HOLD Uganda Spatial MEAL Dashboard 📍
+# HOLD Uganda Spatial MEAL Dashboard 
 
 ## Project Overview
 This repository contains a spatial monitoring framework developed for **HOLD Uganda**, specifically targeting the **NIYETU Sexual Reproductive Health (SRHR)** project. The dashboard transforms routine health data into geographic intelligence to identify service gaps in high-need districts.
